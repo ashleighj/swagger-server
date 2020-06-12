@@ -1,5 +1,7 @@
 # swagger-server
 
+A tiny golang http web server enabling quick serving and interpretation of swagger yaml files using swaggerui.
+
 ## Try it out
 
 ### If you have go installed
