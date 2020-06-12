@@ -1,0 +1,9 @@
+.vscode
+docs/*
+dist/docs
+!docs/petstore.yml
+tmpl
+/main
+*.zip
+main
+swagger-server
