@@ -1,6 +1,6 @@
 .vscode
 docs/*
-dist/docs
+dist
 !docs/petstore.yml
 tmpl
 /main
