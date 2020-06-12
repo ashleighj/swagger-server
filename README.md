@@ -17,3 +17,5 @@
 1. Run `docker-compose up --build`
 
 2. Hit http://localhost:8080 (or with custom port) in your browser
+
+*** Add your own swagger yaml files to the `/docs` folder to have them served.
